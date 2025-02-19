@@ -12,6 +12,14 @@
     />
     <link rel="stylesheet" href="../../styles/heyon-jung.css" />
     <link rel="stylesheet" href="../../styles/index.css" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <script>
+      function openclose() {
+        $("#card").toggle();
+      }
+    </script>
   </head>
   <body>
     <div class="header"></div>
@@ -21,8 +29,10 @@
         alt="김현정"
         class="profilecard"
         width="300"
-        height="300" />
+        height="300"
+      />
     </div>
+
     <div class="informationBox">
       <div class="information">
         <a id="name">김현정</a>
@@ -46,7 +56,20 @@
       </div>
     </div>
 
-    <div class="cards">
+
+
+
+    
+    <div class="bth">
+      <button onclick="openclose()">
+        <img
+          src="https://cdn-icons-png.flaticon.com/512/5649/5649500.png"
+          alt="펼치기 버튼"
+        />
+      </button>
+    </div>
+
+    <div class="cards" id="card">
       <br /><br />
 
       <div class="mbti">
@@ -137,6 +160,51 @@
           </div>
         </div>
       </div>
+      <br />
+      <br />
+      <br />
+
+      <div class="comment">
+        <div id="card-case">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V9Qyc5q6XDsj73nfjnmoalYNl3TCCzK3Og&s"
+            id="card-image"
+            alt="소감"
+          />
+          <div id="card-body">
+            <p id="card-title">온보딩 첫 프로젝트를 한 소감</p>
+            <p id="card-text">
+              개인 웹페이지를 코딩하는 담당을 맡았으며, 기본 웹페이지 구조와
+              css부분을 담당하였습니다.<br />
+              첫 프로젝트인데 좋은 팀원들을 만나서 어렵지 않게 협동적으로
+              잘하였고, 서로 모르는 부분이나 궁금한 점을 물어보며 열심히
+              하였습니다. 그래서 좋은 결과물을 나온 것 같아서 뿌듯합니다.
+            </p>
+          </div>
+        </div>
+      </div>
     </div>
+
+    <div class="Url">
+      <div class="col">
+        <div class="c">
+          <button
+            class="card1"
+            onclick="location.href='file:///C:/Users/bba01/Desktop/33%20sparta/a.html'"
+          >
+            <img src="../../images/왼쪽화살표.png" class="img1" alt="이전페이지"/>
+          </button>
+        </div>
+        <div class="d">
+          <button
+            class="card2"
+            onclick="location.href='file:///C:/Users/bba01/Desktop/33%20sparta/b.html'">
+            <img src="../../images/오른쪽화실표.png" class="img2" alt="다음페이지"/>
+          </button>
+        </div>
+      </div>
+    </div>
+
+
   </body>
 </html>
