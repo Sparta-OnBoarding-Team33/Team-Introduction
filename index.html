@@ -9,105 +9,115 @@
 			href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
 		/>
 		<link rel="stylesheet" href="./styles/index.css" />
+		<link rel="stylesheet" href="./styles/main-page.css" />
 	</head>
 
 	<body>
-		<div class="p-2 bg-body-tertiary rounded-3">
-			<div class="banner">
-				<div class="container-fluid">
-					<h1 class="display-5 fw-bold">33조 를 소개합니다.</h1>
-				</div>
-			</div>
-		</div>
-		<hr />
-		<div>
-			<div>
-				<h2>팀 소개 내용</h2>
-			</div>
-			<div>
-				<p>팀장은 이고, 팀원은 으로 구성되어있습니다.</p>
-			</div>
-		</div>
-		<hr />
-		<div>
-			<div>
-				<h2>우리 팀의 목표!</h2>
-			</div>
-			<ul>
-				<li>1. 1주차 화요일 오전까지 웹개발 강의 최소 3주차까지 듣기</li>
-				<li>2. 1주차 화요일 오후에는 팀프로젝트 진행하기</li>
-				<li>3. 팀프로젝트 완성시키기</li>
-				<li>4. 매일 TIL 작성하기</li>
-			</ul>
-		</div>
-		<hr />
-		<div>
-			<div>
-				<h2>우리 팀의 규칙!</h2>
-			</div>
-			<ul>
-				<li>1. 개인 일정이 있을 시, 팀원들에게 미리 공지하기</li>
-				<li>
-					2. 소통을 중요시하며 자리비움이나 식사를 할경우 팀원들에게 이야기 하기
-				</li>
-				<li>
-					3. 어려운 부분이나 모르는 부분이 있으면 언제든지 소통하며 해결하기
-				</li>
-				<li>
-					4. 해야할 부분은 정해진 시간 내에 다 마무리를 하고, 만약 제 시간에
-					못할시에는 미리 사전에 공지하기
-				</li>
-			</ul>
-		</div>
-		<hr />
-		<div>
+		<nav>
+			<a href="/"><h3 class="link-text">Home</h3></a>
 			<div class="row row-cols-1 row-cols-md-4 g-4">
 				<div class="col">
-					<div class="card">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/yong-hwan/index.html'"
+					>
 						<img
 							src="./images/yonghwan1.png"
 							class="card-img-top"
 							alt="이용환"
 						/>
-						<a href="/personal-information/yong-hwan/index.html">
-							<h4 class="name">이용환</h4>
-						</a>
-					</div>
+						<span class="link-text">이용환</span>
+					</button>
 				</div>
 				<div class="col">
-					<div class="card">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/hyeon-jung/index.html'"
+					>
 						<img
 							src="./images/hyeonjeong1.png"
 							class="card-img-top"
 							alt="김현정"
 						/>
-						<a href="/personal-information/hyeon-jung/index.html">
-							<h4 class="name">김현정</h4>
-						</a>
-					</div>
+						<span class="link-text">김현정</span>
+					</button>
 				</div>
 				<div class="col">
-					<div class="card">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/chang-hoon/index.html'"
+					>
 						<img
 							src="./images/changhoon1.png"
 							class="card-img-top"
 							alt="석창훈"
 						/>
-						<a href="/personal-information/chang-hoon/index.html">
-							<h4 class="name">석창훈</h4>
-						</a>
-					</div>
+						<span class="link-text">석창훈</span>
+					</button>
 				</div>
 				<div class="col">
-					<div class="card">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/hee-joon/index.html'"
+					>
 						<img src="./images/heejun1.png" class="card-img-top" alt="김희준" />
-						<a href="/personal-information/hee-jun/index.html">
-							<h4 class="name">김희준</h4>
-						</a>
+						<span class="link-text">김희준</span>
+					</button>
+				</div>
+			</div>
+		</nav>
+		<main>
+			<div class="p-2 bg-body-tertiary rounded-3">
+				<div class="banner">
+					<div class="container-fluid">
+						<h1 class="display-5 fw-bold">33조 를 소개합니다.</h1>
 					</div>
 				</div>
 			</div>
-		</div>
+			<hr />
+			<div>
+				<div>
+					<h2>팀 소개 내용</h2>
+				</div>
+				<div>
+					<p>팀장은 이고, 팀원은 으로 구성되어있습니다.</p>
+				</div>
+			</div>
+			<hr />
+			<div>
+				<div>
+					<h2>우리 팀의 목표!</h2>
+				</div>
+				<ul>
+					<li>1. 1주차 화요일 오전까지 웹개발 강의 최소 3주차까지 듣기</li>
+					<li>2. 1주차 화요일 오후에는 팀프로젝트 진행하기</li>
+					<li>3. 팀프로젝트 완성시키기</li>
+					<li>4. 매일 TIL 작성하기</li>
+				</ul>
+			</div>
+			<hr />
+			<div>
+				<div>
+					<h2>우리 팀의 규칙!</h2>
+				</div>
+				<ul>
+					<li>1. 개인 일정이 있을 시, 팀원들에게 미리 공지하기</li>
+					<li>
+						2. 소통을 중요시하며 자리비움이나 식사를 할경우 팀원들에게 이야기
+						하기
+					</li>
+					<li>
+						3. 어려운 부분이나 모르는 부분이 있으면 언제든지 소통하며 해결하기
+					</li>
+					<li>
+						4. 해야할 부분은 정해진 시간 내에 다 마무리를 하고, 만약 제 시간에
+						못할시에는 미리 사전에 공지하기
+					</li>
+				</ul>
+			</div>
+			<hr />
+			<div></div>
+		</main>
 	</body>
 </html>
 =======
