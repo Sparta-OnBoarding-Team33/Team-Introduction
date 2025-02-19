@@ -2,26 +2,43 @@
   {
     "id": "hyeon",
     "korName": "김현정",
-    "engName": "",
-    "character-image": "/images/yonghwan.png",
-    "introduction": "",
+    "engName": "Kim Hyeonjeong",
+    "character-image": "/images/hyeonjeong.png",
+    "introduction": "백엔드 개발자를 꿈꾸고 있는 김현정입니다.<br>배우고 도전하며 성장하는 모습 보여드리겠습니다.",
 
-    "email": "john.doe@example.com",
-    "github": "url",
-    "blog": "url",
+    "email": "todok0317@naver.com",
+    "github": "https://github.com/todok0317",
+    "blog": "https://velog.io/@todok0317/posts",
 
-    "mbti": "INFP",
-    "mbti-texts": "INFP 설명",
+    "mbti": "ENTJ",
+    "mbti-texts": "저의 MBTI는 ENTJ입니다.<br />
+              목표 달성을 위해 노력을 많이하며, 리더십이 뛰어납니다. 또한,
+              논리적이고 도전 정신이 강합니다.",
 
-    "pros-and-cons": "장단점",
+    "pros-and-cons": "일하는 속도가 빠른 것이 저의 장점입니다.<br />
+              그래서 빠른 피드백을 서고 더 빨리 개선할 수 있습니다.
+              <br />
+              하지만 저의 단점은 조금 게으른 것입니다. <br />
+              한번 일을 미루면 까먹는 경우가 있습니다. 개선하기 위해서 바로바로
+              일을 하는 스타일입니다.",
 
-    "hobby-img": "url",
-    "hobby-text": "취미 설명",
+    "hobby-img": "uhttps://img.kbs.co.kr/kbs/620/news.kbs.co.kr/data/fckeditor/new/image/2023/12/05/334011701766870580.jpg",
+    "hobby-text": "16년도 부터 LCK경기를 보았고 SKT T1의 선수였던 Faker선수님의 팬이
+              되었습니다.<br />
+              그렇다보니 현재도 LCK경기를 보는 것이 저의 취미가 되었습니다.",
 
-    "goal": "목표",
+    "goal": "부트캠프를 열심히 잘 수료를 하여 일 잘하는 백엔드 개발자가 되는
+              것이 저의 목표입니다.<br />
+              목표를 이루기 위해서 매일 코딩연습과 자기개발을 할 예정이고 열심히
+              공부를 할것입니다.<br />
+              잘부탁드립니다.",
 
-    "learned-during-onboarding": "이번주 배운 것",
-    "favorite-color": "원하는 배경색"
+    "learned-during-onboarding": "개인 웹페이지를 코딩하는 담당을 맡았으며, 기본 웹페이지 구조와
+              css부분을 담당하였습니다.<br />
+              첫 프로젝트인데 좋은 팀원들을 만나서 어렵지 않게 협동적으로
+              잘하였고, 서로 모르는 부분이나 궁금한 점을 물어보며 열심히
+              하였습니다. 그래서 좋은 결과물을 나온 것 같아서 뿌듯합니다.",
+    "favorite-color": "#d4f0f0"
   },
   {
     "id": "hee",
