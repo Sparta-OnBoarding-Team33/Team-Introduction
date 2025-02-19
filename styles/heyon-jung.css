@@ -7,8 +7,6 @@
 
 html,
 body {
-  /* width: 100%;
-  height: 100%; */
   margin: 0;
   padding: 0;
 }
@@ -32,13 +30,31 @@ body {
 .information {
   margin-left: 360px;
   margin-top: -180px;
-  /* border: 1px solid black; */
   height: 200px;
   padding: 10px;
 }
 
 .profilecard {
   object-fit: cover;
+}
+
+.bth {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.bth button {
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.bth img {
+    width: 80px;
+    height: 80px;
 }
 
 .cards {
@@ -83,8 +99,8 @@ body {
 }
 
 .good-bad,
-.mbti, .hobby, .goals {
-  width: 700px;
+.mbti, .hobby, .goals, .comment {
+  width: 750px;
   height: 300px;
   background-color: white;
   border: 5px solid white;
@@ -125,4 +141,56 @@ body {
 
 #card-text {
   font-size: 18px;
+}
+
+
+.Url {
+
+    text-decoration-line: none;
+
+    background-color: transparent;
+    margin: 20px auto 20px auto;
+
+    position: fixed;
+    top: 50%;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.card1>img, .card2>img {
+    width: 50px;
+    height: 50px;
+    
+}
+
+.card1 img {
+    margin-left: -70px;
+}
+
+.card2 img {
+    position: fixed;  /* 화면에 고정 */
+    right: 170px;
+}
+
+.card1, .card2 {
+    background-color: transparent;
+    width: 50px;
+    height: 50px;
+    border-color: transparent;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.col {
+    background-color: transparent;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
