@@ -9,12 +9,62 @@
 			href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css"
 		/>
 		<link rel="stylesheet" href="./styles/index.css" />
-    <link rel="stylesheet" href="./styles/main-page.css">
+		<link rel="stylesheet" href="./styles/main-page.css" />
 	</head>
 
 	<body>
 		<nav>
-			<a href="/"><h3>Home</h3></a>
+			<a href="/"><h3 class="link-text">Home</h3></a>
+			<div class="row row-cols-1 row-cols-md-4 g-4">
+				<div class="col">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/yong-hwan/index.html'"
+					>
+						<img
+							src="./images/yonghwan1.png"
+							class="card-img-top"
+							alt="이용환"
+						/>
+						<span class="link-text">이용환</span>
+					</button>
+				</div>
+				<div class="col">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/hyeon-jung/index.html'"
+					>
+						<img
+							src="./images/hyeonjeong1.png"
+							class="card-img-top"
+							alt="김현정"
+						/>
+						<span class="link-text">김현정</span>
+					</button>
+				</div>
+				<div class="col">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/chang-hoon/index.html'"
+					>
+						<img
+							src="./images/changhoon1.png"
+							class="card-img-top"
+							alt="석창훈"
+						/>
+						<span class="link-text">석창훈</span>
+					</button>
+				</div>
+				<div class="col">
+					<button
+						class="card"
+						onclick="location.href='/personal-information/hee-joon/index.html'"
+					>
+						<img src="./images/heejun1.png" class="card-img-top" alt="김희준" />
+						<span class="link-text">김희준</span>
+					</button>
+				</div>
+			</div>
 		</nav>
 		<main>
 			<div class="p-2 bg-body-tertiary rounded-3">
@@ -66,58 +116,7 @@
 				</ul>
 			</div>
 			<hr />
-			<div>
-				<div class="row row-cols-1 row-cols-md-4 g-4">
-					<div class="col">
-						<div class="card">
-							<img
-								src="./images/yonghwan1.png"
-								class="card-img-top"
-								alt="이용환"
-							/>
-							<a href="/personal-information/yong-hwan/index.html">
-								<h4 class="name">이용환</h4>
-							</a>
-						</div>
-					</div>
-					<div class="col">
-						<div class="card">
-							<img
-								src="./images/hyeonjeong1.png"
-								class="card-img-top"
-								alt="김현정"
-							/>
-							<a href="/personal-information/hyeon-jung/index.html">
-								<h4 class="name">김현정</h4>
-							</a>
-						</div>
-					</div>
-					<div class="col">
-						<div class="card">
-							<img
-								src="./images/changhoon1.png"
-								class="card-img-top"
-								alt="석창훈"
-							/>
-							<a href="/personal-information/chang-hoon/index.html">
-								<h4 class="name">석창훈</h4>
-							</a>
-						</div>
-					</div>
-					<div class="col">
-						<div class="card">
-							<img
-								src="./images/heejun1.png"
-								class="card-img-top"
-								alt="김희준"
-							/>
-							<a href="/personal-information/hee-jun/index.html">
-								<h4 class="name">김희준</h4>
-							</a>
-						</div>
-					</div>
-				</div>
-			</div>
+			<div></div>
 		</main>
 	</body>
 </html>
