@@ -1,14 +1,98 @@
 [
   {
-    "name": "yong",
+    "id": "hyeon",
+    "korName": "김현정",
+    "engName": "",
+    "character-image": "/images/yonghwan.png",
+    "introduction": "",
+
     "email": "john.doe@example.com",
-    "role": "admin",
-    "isActive": true
+    "github": "url",
+    "blog": "url",
+
+    "mbti": "INFP",
+    "mbti-texts": "INFP 설명",
+
+    "pros-and-cons": "장단점",
+
+    "hobby-img": "url",
+    "hobby-text": "취미 설명",
+
+    "goal": "목표",
+
+    "learned-during-onboarding": "이번주 배운 것",
+    "favorite-color": "원하는 배경색"
   },
   {
-    "name": "John Doe",
+    "id": "hee",
+    "korName": "김희준",
+    "engName": "",
+    "character-image": "/images/yonghwan.png",
+    "introduction": "",
+
     "email": "john.doe@example.com",
-    "role": "admin",
-    "isActive": true
+    "github": "url",
+    "blog": "url",
+
+    "mbti": "INFP",
+    "mbti-texts": "INFP 설명",
+
+    "pros-and-cons": "장단점",
+
+    "hobby-img": "url",
+    "hobby-text": "취미 설명",
+
+    "goal": "목표",
+
+    "learned-during-onboarding": "이번주 배운 것",
+    "favorite-color": "원하는 배경색"
+  },
+  {
+    "id": "chang",
+    "korName": "석창훈",
+    "engName": "",
+    "character-image": "/images/yonghwan.png",
+    "introduction": "",
+
+    "email": "john.doe@example.com",
+    "github": "url",
+    "blog": "url",
+
+    "mbti": "INFP",
+    "mbti-texts": "INFP 설명",
+
+    "pros-and-cons": "장단점",
+
+    "hobby-img": "url",
+    "hobby-text": "취미 설명",
+
+    "goal": "목표",
+
+    "learned-during-onboarding": "이번주 배운 것",
+    "favorite-color": "원하는 배경색"
+  },
+  {
+    "id": "yong",
+    "korName": "이용환",
+    "engName": "Yong Lee",
+    "character-image": "/images/yonghwan.png",
+    "introduction": "안녕하세요. 이용환입니다.",
+
+    "email": "john.doe@example.com",
+    "github": "url",
+    "blog": "url",
+
+    "mbti": "INFP",
+    "mbti-texts": "INFP 설명",
+
+    "pros-and-cons": "장단점",
+
+    "hobby-img": "url",
+    "hobby-text": "취미 설명",
+
+    "goal": "목표",
+
+    "learned-during-onboarding": "이번주 배운 것",
+    "favorite-color": "원하는 배경색"
   }
 ]
