@@ -1,0 +1,14 @@
+[
+  {
+    "name": "yong",
+    "email": "john.doe@example.com",
+    "role": "admin",
+    "isActive": true
+  },
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "admin",
+    "isActive": true
+  }
+]
