@@ -166,13 +166,16 @@ body {
     
 }
 
-.card1 img {
-    margin-left: -70px;
+.c {
+    margin-left: -150px;
+}
+
+.d {
+    margin-left: 1200px;
 }
 
 .card2 img {
     position: fixed;  /* 화면에 고정 */
-    right: 170px;
 }
 
 .card1, .card2 {
