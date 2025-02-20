@@ -127,7 +127,7 @@
     "korName": "이용환",
     "engName": "Yong Lee",
     "character-image": "/images/yonghwan.png",
-    "introduction": "안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다.",
+    "introduction": "침착한 개발자 이용환입니다.<br> 끊임없이 배우고 성장하는 개발자가 되겠습니다.",
 
     "email": "yong.lee.dev.com",
     "github": "https://github.com/YongLeeCode",
@@ -141,7 +141,7 @@
       },
       {
         "title" : "장점 / 단점",
-        "content" : "장점으로는 문제가 발생했을 때 원인 혹은 비슷한 상황을 빠르게 찾아내어 해결합니다. 단점으로는 해결했던 방법을 빠르게 잊어버립니다.",
+        "content" : "장점으로는 문제가 발생했을 때 원인 혹은 비슷한 상황을 빠르게 찾아내어 해결합니다. <br />단점으로는 해결했던 방법을 빠르게 잊어버립니다.",
         "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsniQeg-I9-L2w2wJ8pYw-k4mn3_b90V3T4xc0L12C2vyLjzEkAJT6eyBFGYHjsJgt2Co&usqp=CAU"
       },
       {
@@ -151,12 +151,12 @@
       },
       {
         "title" : "목표",
-        "content" : "목표",
+        "content" : "공부한 것, 프로젝트 한 것들은 설명할 수 있을정도로 이해도를 높이고 싶습니다.",
         "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkcVOUvtpzz1AphhOrj1heB10bkG_S6mcUQ&s"
       },
       {
         "title" : "이번주 배운 것",
-        "content" : "이번주 배운 것",
+        "content" : "github rule의 대한 이해와 브라우저의 동작원리를 이해했습니다.",
         "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V9Qyc5q6XDsj73nfjnmoalYNl3TCCzK3Og&s"
       }
     ],
