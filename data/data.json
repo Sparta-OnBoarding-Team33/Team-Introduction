@@ -43,26 +43,26 @@
   {
     "id": "hee",
     "korName": "김희준",
-    "engName": "",
-    "character-image": "/images/yonghwan.png",
-    "introduction": "",
+    "engName": "Kim heejun",
+    "character-image": "./images/heejun.png",
+    "introduction": "개발자 쪽은 완전 첨이라 모르는게 많습니다. 열심히 배우겠습니다.",
 
-    "email": "john.doe@example.com",
-    "github": "url",
-    "blog": "url",
+    "email": "khjas9048@gmail.com",
+    "github": "https://github.com/100jun001",
+    "blog": "https://velog.io/@khms9048/posts",
 
-    "mbti": "INFP",
-    "mbti-texts": "INFP 설명",
+    "mbti": "I(E)NTJ",
+    "mbti-texts": "I(E)NFP : 세상이 어떻게 돌아가는지 이해하고, 세상에서 당신의 위치와 최대 도달 범위와 성취를 달성하는 방법을 이해한다. 시간이 지남에 따라 더욱 자신감 있고 편안해집니다.",
 
-    "pros-and-cons": "장단점",
+    "pros-and-cons": "장단점: 제가 좀 게으른 편으로 능력이 되는 일은 쉬다가 마감일이 다가오면 그때 빨리 해버리는 편이고, 능력이 안되는 일은 처음부터 확실하게 하며 할수있다면 빨리해버리고 쉬자는 타입임니다. 하지만 친구, 동료, 팀원과 무언가를 하면 능력, 시간 상관없이 확실하게 해버림니다.",
 
-    "hobby-img": "url",
-    "hobby-text": "취미 설명",
+    "hobby-img": "수영, 게임, 잠자기",
+    "hobby-text": "바다수영, 강 수영, 스쿠버다이빙, 프리다이빙 등등 수영을 좋아하며 중, 고등학교때는 수상경력까지 있습니다. 게임은 친구들과 즐길수있는 게임이면 어려워도 즐기면서 플레이합니다. 그리고 아무것도 안하는 날은 청소좀하고 잠자는게 최고라고 생각합니다!",
 
-    "goal": "목표",
+    "goal": "목표: 일단 아무것도 없이 백엔드 배우러 들어왔는데 기초적인것을 짧은시간안에 여러가지를 배우는데 머리가 뜨겁네요. 공부시간도 길어서 끝나고 나면 엉덩이가 아파요..ㅜㅜ 여튼 버티다 보면 익숙해지는게 사람이니까 버티는게 목표입니다.",
 
-    "learned-during-onboarding": "이번주 배운 것",
-    "favorite-color": "원하는 배경색"
+    "learned-during-onboarding": "배운것: html, css, javascript, github 기본을 배우고 github를 이용해서 팀원들과 데이터를 백업과 공유를 하며 웹페이지 개발을 하며 분업과 협력, 팀원들의 생각과 여러가지 노하우 같은것들을 배울수있었습니다.",
+    "favorite-color": "노랑(이유는 이제 시작한 병아리가 생각나서)"
   },
   {
     "id": "chang",
