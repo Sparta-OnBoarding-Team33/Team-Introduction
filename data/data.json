@@ -19,7 +19,7 @@
       {
         "title" : "장점 / 단점",
         "content" : "일하는 속도가 빠른 것이 저의 장점입니다.<br /> 그래서 빠른 피드백을 서고 더 빨리 개선할 수 있습니다. <br /> 하지만 저의 단점은 조금 게으른 것입니다. <br /> 한번 일을 미루면 까먹는 경우가 있습니다. 개선하기 위해서 바로바로 일을 하는 스타일입니다.",
-        "image" : "url"
+        "image" : "https://img.freepik.com/premium-vector/pros-cons-vector-icon_923982-565.jpg"
       },
       {
         "title" : "취미",
@@ -29,12 +29,12 @@
       {
         "title" : "목표",
         "content" : "부트캠프를 열심히 잘 수료를 하여 일 잘하는 백엔드 개발자가 되는 것이 저의 목표입니다.<br /> 목표를 이루기 위해서 매일 코딩연습과 자기개발을 할 예정이고 열심히 공부를 할것입니다.<br /> 잘부탁드립니다.",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkcVOUvtpzz1AphhOrj1heB10bkG_S6mcUQ&s"
       },
       {
         "title" : "이번주 배운 것",
         "content" : "개인 웹페이지를 코딩하는 담당을 맡았으며, 기본 웹페이지 구조와 css부분을 담당하였습니다.<br /> 첫 프로젝트인데 좋은 팀원들을 만나서 어렵지 않게 협동적으로 잘하였고, 서로 모르는 부분이나 궁금한 점을 물어보며 열심히 하였습니다. 그래서 좋은 결과물을 나온 것 같아서 뿌듯합니다.",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V9Qyc5q6XDsj73nfjnmoalYNl3TCCzK3Og&s"
       }
     ],
     
@@ -60,22 +60,22 @@
       {
         "title" : "장점 / 단점",
         "content" : "제가 좀 게으른 편으로 능력이 되는 일은 쉬다가 마감일이 다가오면 그때 빨리 해버리는 편이고, 능력이 안되는 일은 처음부터 확실하게 하며 할수있다면 빨리해버리고 쉬자는 타입임니다. 하지만 친구, 동료, 팀원과 무언가를 하면 능력, 시간 상관없이 확실하게 해버림니다.",
-        "image" : "url"
+        "image" : "https://img.freepik.com/premium-vector/pros-cons-vector-icon_923982-565.jpg"
       },
       {
         "title" : "취미",
         "content" : "바다수영, 강 수영, 스쿠버다이빙, 프리다이빙 등등 수영을 좋아하며 중, 고등학교때는 수상경력까지 있습니다. 게임은 친구들과 즐길수있는 게임이면 어려워도 즐기면서 플레이합니다. 그리고 아무것도 안하는 날은 청소좀하고 잠자는게 최고라고 생각합니다!",
-        "image" : "url"
+        "image" : "/images/heejun-swim.jpg"
       },
       {
         "title" : "목표",
         "content" : "일단 아무것도 없이 백엔드 배우러 들어왔는데 기초적인것을 짧은시간안에 여러가지를 배우는데 머리가 뜨겁네요. 공부시간도 길어서 끝나고 나면 엉덩이가 아파요..ㅜㅜ 여튼 버티다 보면 익숙해지는게 사람이니까 버티는게 목표입니다.",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkcVOUvtpzz1AphhOrj1heB10bkG_S6mcUQ&s"
       },
       {
         "title" : "이번주 배운 것",
         "content" : "html, css, javascript, github 기본을 배우고 github를 이용해서 팀원들과 데이터를 백업과 공유를 하며 웹페이지 개발을 하며 분업과 협력, 팀원들의 생각과 여러가지 노하우 같은것들을 배울수있었습니다.",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V9Qyc5q6XDsj73nfjnmoalYNl3TCCzK3Og&s"
       }
     ],
 
@@ -101,7 +101,7 @@
       {
         "title" : "장점 / 단점",
         "content" : "저의 장점은 한 곳에 꽂히면 계속 파고들며 열심히 하는 것 입니다.<br> 그리고 대부분 메모를 잘 해놓는 습관이 장점인것 같습니다.<br> 단점은 무언가를 하기에 앞서 걱정이 많다는 것 입니다.",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsniQeg-I9-L2w2wJ8pYw-k4mn3_b90V3T4xc0L12C2vyLjzEkAJT6eyBFGYHjsJgt2Co&usqp=CAU"
       },
       {
         "title" : "취미",
@@ -111,12 +111,12 @@
       {
         "title" : "목표",
         "content" : "처음 배우는 것으로써 빈 공간을 지식으로 가득채워서 다재다능한 개발자가 되어보고 싶습니다.<br> 물론 취업까지 잘 하는 것도 목표입니다.",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkcVOUvtpzz1AphhOrj1heB10bkG_S6mcUQ&s"
       },
       {
         "title" : "이번주 배운 것",
         "content" : "모든 것이 처음이지만 이번 프로젝트에서 팀장을 맡게 되었고 간단한 뼈대와 CSS부분을 만들었습니다.<br> 지식은 팀원에 비해 부족하지만 물어보고 배워가며 또한 소소한 의견을 내며 서로 도왔습니다.<br> 첫 프로젝트지만 팀원들 덕에 알차게 준비한 것 같아 뿌듯합니다.",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V9Qyc5q6XDsj73nfjnmoalYNl3TCCzK3Og&s"
       }
     ],
     
@@ -136,28 +136,28 @@
     "card" : [
       {
         "title" : "INFP",
-        "content" : "INFP 설명",
-        "image" : "https://www.urbanbrush.net/web/wp-content/uploads/edd/2023/08/urban-20230829083623519656.jpg"
+        "content" : "공식 사이트에 따르면 '조용하고 자신을 내세우지 않는 것처럼 보이지만, 사실은 에너지와 열정이 넘치는 마음을 지닌 성격'이라고 합니다.",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7n21Sl-QmpskBX8MbdIvVKlnfPABJckS1jhlyGAgO-1c2MgwDGsA8NlTebhvSvWEp458&usqp=CAU"
       },
       {
-        "title" : "장단점",
-        "content" : "장단점",
-        "image" : "url"
+        "title" : "장점 / 단점",
+        "content" : "장점으로는 문제가 발생했을 때 원인 혹은 비슷한 상황을 빠르게 찾아내어 해결합니다. 단점으로는 해결했던 방법을 빠르게 잊어버립니다.",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsniQeg-I9-L2w2wJ8pYw-k4mn3_b90V3T4xc0L12C2vyLjzEkAJT6eyBFGYHjsJgt2Co&usqp=CAU"
       },
       {
         "title" : "취미",
-        "content" : "취미 설명",
-        "image" : "url"
+        "content" : "운동을 좋아하며, 특히 축구를 좋아합니다.",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxjUOqmv9Ps7ZxG0uO-usl3lQBv5_8UEt-A&s"
       },
       {
         "title" : "목표",
         "content" : "목표",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkcVOUvtpzz1AphhOrj1heB10bkG_S6mcUQ&s"
       },
       {
         "title" : "이번주 배운 것",
         "content" : "이번주 배운 것",
-        "image" : "url"
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V9Qyc5q6XDsj73nfjnmoalYNl3TCCzK3Og&s"
       }
     ],
     

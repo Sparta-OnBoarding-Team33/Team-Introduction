@@ -76,3 +76,7 @@ main {
 .card:hover .link-text {
   transform: translateY(-10px);
 }
+
+p {
+  padding-left: 20px;
+}

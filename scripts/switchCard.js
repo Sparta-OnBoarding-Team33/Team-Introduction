@@ -9,7 +9,9 @@ function updateCard() {
 
 	document.getElementById("card-image").src = currentData.image;
 	document.getElementById("card-title").innerText = currentData.title;
-	document.getElementById("card-text").innerText = currentData.content;
+	document.getElementById("card-text").innerText = replaceBrWithNewline(
+		currentData.content
+	);
 }
 
 document.getElementById("prevBtn").addEventListener("click", () => {
