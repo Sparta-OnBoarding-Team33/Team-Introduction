@@ -107,23 +107,40 @@
     "korName": "이용환",
     "engName": "Yong Lee",
     "character-image": "/images/yonghwan.png",
-    "introduction": "안녕하세요. 이용환입니다.",
+    "introduction": "안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다. 안녕하세요. 이용환입니다.",
 
     "email": "john.doe@example.com",
-    "github": "url",
-    "blog": "url",
+    "github": "https://github.com/YongLeeCode",
+    "blog": "https://velog.io/@yong-lee/posts",
 
-    "mbti": "INFP",
-    "mbti-texts": "INFP 설명",
-
-    "pros-and-cons": "장단점",
-
-    "hobby-img": "url",
-    "hobby-text": "취미 설명",
-
-    "goal": "목표",
-
-    "learned-during-onboarding": "이번주 배운 것",
+    "card" : [
+      {
+        "title" : "INFP",
+        "content" : "INFP 설명",
+        "image" : "https://www.urbanbrush.net/web/wp-content/uploads/edd/2023/08/urban-20230829083623519656.jpg"
+      },
+      {
+        "title" : "장단점",
+        "content" : "장단점",
+        "image" : "url"
+      },
+      {
+        "title" : "취미",
+        "content" : "취미 설명",
+        "image" : "url"
+      },
+      {
+        "title" : "목표",
+        "content" : "목표",
+        "image" : "url"
+      },
+      {
+        "title" : "이번주 배운 것",
+        "content" : "이번주 배운 것",
+        "image" : "url"
+      }
+    ],
+    
     "favorite-color": "원하는 배경색"
   }
 ]

@@ -1,0 +1,3 @@
+const toggle = () => { 
+  $("#card").toggle();
+}

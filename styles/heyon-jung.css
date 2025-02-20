@@ -10,32 +10,28 @@ body {
   margin: 0;
   padding: 0;
 }
-.header {
-  background-color: #d4f0f0;
-  height: 200px;
-}
-.profilecard-img {
-  border-radius: 70%;
-  width: 300px;
-  height: 300px;
-  overflow: hidden;
-  margin-top: -100px;
-  margin-left: 50px;
-}
 
 .informationBox {
-    background-color: white;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
 }
 
 .information {
-  margin-left: 360px;
-  margin-top: -180px;
-  height: 200px;
   padding: 10px;
 }
 
 .profilecard {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profilecard-img {
   object-fit: cover;
+  border-radius: 70%;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
 }
 
 .bth {
@@ -62,9 +58,13 @@ body {
   margin-top: 30px;
   background-color: #d4f0f0;
   padding: 20px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
 
-#name {
+#korName {
   font-size: 70px;
   font-family: "Noto Sans KR", serif;
   font-optical-sizing: auto;
@@ -72,30 +72,13 @@ body {
   font-style: normal;
 }
 
-#english-name {
+#engName {
   font-size: 20px;
   font-family: "Open Sans", serif;
   font-optical-sizing: auto;
   font-weight: 300;
   font-style: normal;
   font-variation-settings: "wdth" 100;
-}
-
-#blog,
-#git {
-  text-align: right;
-  margin-right: 20px;
-  margin-top: -30px;
-}
-
-#blog a img {
-    width: 30px;
-    height: 30px;
-}
-
-#git a img {
-    width: 30px;
-    height: 30px;
 }
 
 .good-bad,
@@ -109,24 +92,20 @@ body {
   color: black;
 }
 
-#card-case {
+#cardCase {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 600px;
 }
 
 /* 이미지를 찌그러트리지않고 자르기만 하는 것 */
-.hobby #card-image {
+#card-image {
   object-fit: cover;
   border-radius: 30%;
 }
 
-#card-image {
-  width: 250px;
-  height: 250px;
-  object-fit: cover;
-  margin: 20px 10px 20px 20px;
-}
+
 
 #card-body {
   flex: 1;
@@ -134,6 +113,13 @@ body {
   padding: 10px;
   margin-top: 20px;
 } 
+
+#card-image {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  margin: 20px 10px 20px 20px;
+}
 
 #card-title {
   font-size: 30px;
@@ -143,39 +129,10 @@ body {
   font-size: 18px;
 }
 
-
-.Url {
-
-    text-decoration-line: none;
-
-    background-color: transparent;
-    margin: 20px auto 20px auto;
-
-    position: fixed;
-    top: 50%;
-
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
 .card1>img, .card2>img {
     width: 50px;
     height: 50px;
     
-}
-
-.c {
-    margin-left: -150px;
-}
-
-.d {
-    margin-left: 1200px;
-}
-
-.card2 img {
-    position: fixed;  /* 화면에 고정 */
 }
 
 .card1, .card2 {
@@ -183,10 +140,6 @@ body {
     width: 50px;
     height: 50px;
     border-color: transparent;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
 }
 
 .col {
@@ -196,4 +149,28 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+}
+
+.sns {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: right;
+}
+
+.sns > a {
+  margin: 0 10px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  text-decoration: none;
+}
+
+.sns > a > img {
+  width: 50px;
+  height: 50px;
+}
+
+.sns > a > p {
+  color: black;
 }
