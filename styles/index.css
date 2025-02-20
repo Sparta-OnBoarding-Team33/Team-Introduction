@@ -17,11 +17,28 @@ nav {
   background-color: #d4f0f0;
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
-  /* padding: 30px auto 80px auto; */
   padding: 30px 20px;
 }
+.nav-home {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
 
+.nav-home > i {
+  padding : 30px;
+  cursor: pointer;
+  width: 50px;
+  transition: transform 0.3s ease-in-out;
+}
+.nav-home > i:hover {
+  transform: translateY(-10px);
+}
+.nav-home > h3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 20px;
+}
 .link-text {
   font-size: 20px;
   font-weight: bold;
