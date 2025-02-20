@@ -44,7 +44,7 @@
     "id": "hee",
     "korName": "김희준",
     "engName": "Kim heejun",
-    "character-image": "./images/heejun.png",
+    "character-image": "/images/heejun.png",
     "introduction": "개발자 쪽은 완전 첨이라 모르는게 많습니다. 열심히 배우겠습니다.",
 
     "email": "khjas9048@gmail.com",
@@ -96,7 +96,7 @@
       {
         "title" : "INFJ",
         "content" : "저의 MBTI는 INFJ입니다.<br> INFJ는 감정적이면서 동시에 이성적입니다.<br> 목적과 의미가 있는 일에 대해 열정적입니다. ",
-        "image" : "https://www.urbanbrush.net/web/wp-content/uploads/edd/2023/08/urban-20230829083623519656.jpg"
+        "image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDEwMTdfMjQ5%2FMDAxNzI5MDk3MzMyNzU4.aBn2ySW2p1rX04VW0akrMZCXVi3JFm2Ubh_ohogdqcgg.8lUhFwuQ7moDyczsUdeibhXtQY59UkMSp3JVW5T1l2Ug.JPEG%2Fsearch.pstatic.jpg&type=a340"
       },
       {
         "title" : "장점 / 단점",
@@ -106,7 +106,7 @@
       {
         "title" : "취미",
         "content" : "취미는 게임과 운동입니다.<br> 기본적으로 컴퓨터 게임을 좋아하고<br> 운동은 대부분 가리지 않고 즐겨합니다.<br>그중에 야구를 좀 좋아하는편입니다.",
-        "image" : "uhttps://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130913_158%2Fooohhss_1379059774189CVSxc_JPEG%2F%25BD%25C7%25C8%25B2%25C6%25C4%25BF%25F6%25C7%25AE%25BE%25DF%25B1%25B8.jpg&type=a340rl"
+        "image" : "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130913_158%2Fooohhss_1379059774189CVSxc_JPEG%2F%25BD%25C7%25C8%25B2%25C6%25C4%25BF%25F6%25C7%25AE%25BE%25DF%25B1%25B8.jpg&type=a340"
       },
       {
         "title" : "목표",

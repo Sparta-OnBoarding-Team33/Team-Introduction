@@ -24,7 +24,7 @@ const getDetails = async () => {
 		document.getElementById("introduction").innerText = userDetails.introduction;
 		document.getElementById("blog").href = userDetails.blog;
 		document.getElementById("github").href = userDetails.github;
-
+		document.getElementById("home-title").innerText = "33팀 " + userDetails.korName;
 		document.dispatchEvent(new CustomEvent('dataLoaded', { detail: window.sharedData }));
 		
 		console.log(userDetails.card[0])

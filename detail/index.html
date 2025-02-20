@@ -12,6 +12,10 @@
 		/>
 		<link rel="stylesheet" href="../../styles/heyon-jung.css" />
 		<link rel="stylesheet" href="../../styles/index.css" />
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+		/>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 		<script defer src="/scripts/toggle.js"></script>
@@ -20,25 +24,26 @@
 	</head>
 	<body>
 		<nav>
-			<a href="/"><h3 class="link-text">Home</h3></a>
+			<div class="nav-home">
+				<i class="fa-solid fa-house fa-2xl" onclick="location.href='/'"></i>
+				<h3 id="home-title"></h3>
+			</div>
+			
+
 			<div class="row row-cols-1 row-cols-md-4 g-4">
 				<div class="col">
 					<button
 						class="card"
-						onclick="location.href='/personal-information/index.html?id=yong'"
+						onclick="location.href='/detail/index.html?id=yong'"
 					>
-						<img
-							src="/images/yonghwan.png"
-							class="card-img-top"
-							alt="이용환"
-						/>
+						<img src="/images/yonghwan.png" class="card-img-top" alt="이용환" />
 						<span class="link-text">이용환</span>
 					</button>
 				</div>
 				<div class="col">
 					<button
 						class="card"
-						onclick="location.href='/personal-information/hyeon-jung/person_web.html?id=yong'"
+						onclick="location.href='/detail/index.html?id=hyeon'"
 					>
 						<img
 							src="/images/hyeonjeong.png"
@@ -51,20 +56,16 @@
 				<div class="col">
 					<button
 						class="card"
-						onclick="location.href='/personal-information/chang-hoon/index.html'"
+						onclick="location.href='/detail/index.html?id=chang'"
 					>
-						<img
-							src="/images/changhun.png"
-							class="card-img-top"
-							alt="석창훈"
-						/>
+						<img src="/images/changhun.png" class="card-img-top" alt="석창훈" />
 						<span class="link-text">석창훈</span>
 					</button>
 				</div>
 				<div class="col">
 					<button
 						class="card"
-						onclick="location.href='/personal-information/hee-joon/index.html'"
+						onclick="location.href='/detail/index.html?id=hee'"
 					>
 						<img src="/images/heejun.png" class="card-img-top" alt="김희준" />
 						<span class="link-text">김희준</span>
@@ -72,18 +73,17 @@
 				</div>
 			</div>
 		</nav>
-		
 
 		<div class="informationBox">
-      <div class="profilecard">
-        <img
-				id="characterImage"
-				alt="character-image"
-				class="profilecard-img"
-				width="300"
-				height="300"
-			  />
-      </div>
+			<div class="profilecard">
+				<img
+					id="characterImage"
+					alt="character-image"
+					class="profilecard-img"
+					width="300"
+					height="300"
+				/>
+			</div>
 			<div class="information">
 				<a id="korName"></a>
 				<a id="engName"></a>
@@ -119,11 +119,11 @@
 			</button>
 		</div>
 		<div class="cards" id="card">
-      <div class="c">
-        <button id="prevBtn" class="card1">
-          <img src="/images/left-arrow.png" class="img1" alt="이전페이지" />
-        </button>
-      </div>
+			<div class="c">
+				<button id="prevBtn" class="card1">
+					<img src="/images/left-arrow.png" class="img1" alt="이전페이지" />
+				</button>
+			</div>
 			<div id="cardCase">
 				<img id="card-image" alt="MBTI" />
 				<div id="card-body">
@@ -131,11 +131,11 @@
 					<p id="card-text"></p>
 				</div>
 			</div>
-      <div class="d">
-        <button id="nextBtn" class="card2">
-          <img src="/images/right-arrow.png" class="img2" alt="다음페이지" />
-        </button>
-      </div>
+			<div class="d">
+				<button id="nextBtn" class="card2">
+					<img src="/images/right-arrow.png" class="img2" alt="다음페이지" />
+				</button>
+			</div>
 		</div>
 	</body>
 </html>
