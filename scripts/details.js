@@ -21,7 +21,7 @@ const getDetails = async () => {
 		document.getElementById("korName").innerText = userDetails.korName;
 		document.getElementById("engName").innerText = userDetails.engName;
 		document.getElementById("email").innerText = userDetails.email;
-		document.getElementById("introduction").innerText = userDetails.introduction;
+		document.getElementById("introduction").innerText = replaceBrWithNewline(userDetails.introduction);
 		document.getElementById("blog").href = userDetails.blog;
 		document.getElementById("github").href = userDetails.github;
 		document.getElementById("home-title").innerText = "33팀 " + userDetails.korName;
@@ -32,5 +32,9 @@ const getDetails = async () => {
 		console.error(error);
 	}
 };
+
+const replaceBrWithNewline = (str) => {
+  return str.replace(/<br\s*\/?>/gi, '\n');
+}
 
 getDetails();
