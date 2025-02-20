@@ -67,26 +67,40 @@
   {
     "id": "chang",
     "korName": "석창훈",
-    "engName": "",
+    "engName": "Seok Chang Hoon",
     "character-image": "/images/yonghwan.png",
-    "introduction": "",
+    "introduction": "웹 개발 및 백엔드를 배우려고 왔습니다.<br>
+                    처음이지만 노력해서 많은것을 얻어가려합니다!",
 
-    "email": "john.doe@example.com",
-    "github": "url",
-    "blog": "url",
+    "email": "bba01219@naver.com",
+    "github": "https://github.com/ChangHoonS",
+    "blog": "https://velog.io/@bba01219/posts",
 
-    "mbti": "INFP",
-    "mbti-texts": "INFP 설명",
+    "mbti": "INFJ",
+    "mbti-texts": "저의 MBTI는 INFJ입니다.<br>
+                  INFJ는 감정적이면서 동시에 이성적입니다.<br>
+                  목적과 의미가 있는 일에 대해 열정적입니다. ",
 
-    "pros-and-cons": "장단점",
+    "pros-and-cons": "저의 장점은 한 곳에 꽂히면 계속 파고들며 열심히 하는 것 입니다.<br>
+                      그리고 대부분 메모를 잘 해놓는 습관이 장점인것 같습니다.<br>
+                      단점은 무언가를 하기에 앞서 걱정이 많다는 것 입니다.",
 
-    "hobby-img": "url",
-    "hobby-text": "취미 설명",
+    "hobby-img": "uhttps://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130913_158%2Fooohhss_1379059774189CVSxc_JPEG%2F%25BD%25C7%25C8%25B2%25C6%25C4%25BF%25F6%25C7%25AE%25BE%25DF%25B1%25B8.jpg&type=a340rl",
+    "hobby-text": "취미는 게임과 운동입니다.<br>
+                  기본적으로 컴퓨터 게임을 좋아하고<br>
+                  운동은 대부분 가리지 않고 즐겨합니다.<br>
+                  그중에 야구를 좀 좋아하는편입니다.",
 
-    "goal": "목표",
+    "goal": "처음 배우는 것으로써 빈 공간을 지식으로 가득채워서 다재다능한 개발자가 되어보고 싶습니다.<br>
+            물론 취업까지 잘 하는 것도 목표입니다.",
 
-    "learned-during-onboarding": "이번주 배운 것",
-    "favorite-color": "원하는 배경색"
+    "learned-during-onboarding": "모든 것이 처음이지만 이번 프로젝트에서 팀장을 맡게 
+                                  되었고 간단한 뼈대와 CSS부분을 만들었습니다.<br>
+                                  지식은 팀원에 비해 부족하지만 물어보고 배워가며 또한 
+                                  소소한 의견을 내며 서로 도왔습니다.<br>
+                                  첫 프로젝트지만 팀원들 덕에 알차게 준비한 것 같아 뿌듯합니다.
+",
+    "favorite-color": "#e9f0c4"
   },
   {
     "id": "yong",
